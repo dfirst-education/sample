@@ -4,4 +4,5 @@
 - sudo apt install xclip
 - Ctrl+Alt+V
 
+![](images/2023-12-10-16-31-12.png)
 
