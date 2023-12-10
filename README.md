@@ -1,4 +1,5 @@
 
+![](images/2023-12-10-16-50-08.png)
 ![](images/2023-12-10-15-55-55.png)
 
 - sudo apt install xclip
