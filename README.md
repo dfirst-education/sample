@@ -18,4 +18,4 @@ lrwxrwxrwx 1 ubuntu ubuntu       10 Dec 10 07:48 python3.1 -> python3.11
 lrwxrwxrwx 1 ubuntu ubuntu       17 Dec 10 07:48 python3-config -> python3.11-config  
 
 
-
+git clone -b dev https://github.com/dfirst-education/sample.git .
