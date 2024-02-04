@@ -1,0 +1,6 @@
+arg[0]: /home/ubuntu/_codes/sample/_sample_execute_py_from_sh/sample.py
+arg[1]: Jobs_NYC_Postings.csv
+   Job ID                    Agency  ... Posting Updated  Process Date
+0  606346  DEPARTMENT FOR THE AGING  ...      09/29/2023    11/20/2023
+
+[1 rows x 30 columns]
