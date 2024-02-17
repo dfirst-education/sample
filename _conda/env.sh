@@ -6,6 +6,7 @@ conda deactivate <envname>
 
 conda create -n <envname> python=3.6 anaconda
 conda create -n <envname> python=3.10 anaconda
+conda create -n <envname> python=3.11 anaconda
 
 conda env remove -n <envname>
 
