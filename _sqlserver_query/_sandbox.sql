@@ -12,4 +12,3 @@ select * from df_skill where job_id = '606346' order by skill_id
 
 
 sp_help df_jd
-
